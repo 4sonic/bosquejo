@@ -1,0 +1,9 @@
+header:
+  - title: Proyectos
+    url: /proyectos/
+  - title: Servicios
+    url: /servicios/
+  - title: Sobre Nosotros
+    url: /nosotros/
+  - title: Contacto
+    url: /contacto/
